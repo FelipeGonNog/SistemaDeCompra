@@ -51,3 +51,24 @@ O sistema utiliza **Spring Security** para:
 - proteção de endpoints
 
 ## Estrutura do Projeto
+src
+├── controller
+├── service
+├── repository
+├── model
+└── config
+
+
+## Objetivo do Projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar:
+
+- desenvolvimento de **APIs REST**
+- arquitetura de software em camadas
+- autenticação e segurança em aplicações backend
+- integração com banco de dados
+
+## Autor
+
+Felipe Gonçalves  
+Estudante de Engenharia de Software
